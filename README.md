@@ -1,4 +1,4 @@
-# 06-reaction-game
+# Reacciona
 
 ## Project setup
 ```
